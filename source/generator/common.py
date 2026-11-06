@@ -93,7 +93,7 @@ def nav(active):
 
 FOOTER = f'''<footer style="background: {TEAL_DK}; color: #E6F4F1; margin-top: 72px">
 <div style="max-width: 1160px; margin: 0 auto; padding: 32px 24px; display: flex; flex-wrap: wrap; gap: 12px 32px; justify-content: space-between; align-items: center">
-<div style="display: flex; align-items: center; gap: 12px">{icon("ribbon", 26, "#99D5CB")}<p style="margin: 0; font-size: 16px">Created by Dang for HPE 4010, University of Cincinnati. For education only, not medical advice.</p></div>
+<div style="display: flex; align-items: center; gap: 12px">{icon("ribbon", 26, "#99D5CB")}<p style="margin: 0; font-size: 16px">Created by Haley for HPE 4010, University of Cincinnati. For education only, not medical advice.</p></div>
 <a href="References.dc.html" style="color: #FFFFFF; font-weight: 700; font-size: 16px">See all references</a>
 </div>
 </footer>'''

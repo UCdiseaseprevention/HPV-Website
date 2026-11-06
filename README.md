@@ -1,6 +1,6 @@
 # HPV and Cervical Cancer Prevention Website
 
-Created by Dang for HPE 4010 (Disease Prevention in Public Health), University of Cincinnati.
+Created by Haley for HPE 4010 (Disease Prevention in Public Health), University of Cincinnati.
 For education only, not medical advice.
 
 ## What's in this folder
