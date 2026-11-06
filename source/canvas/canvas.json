@@ -1,0 +1,97 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-06T05:33:30Z"
+ },
+ "title": "HPV and Cervical Cancer Prevention Website",
+ "launch": {
+  "view": "focused",
+  "file": "Main.dc.html"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1280,
+   "h": 3300,
+   "title": "Home",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Numbers.dc.html": {
+   "x": 1360,
+   "y": 0,
+   "w": 1280,
+   "h": 3500,
+   "title": "The Numbers",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "RiskFactors.dc.html": {
+   "x": 2720,
+   "y": 0,
+   "w": 1280,
+   "h": 3600,
+   "title": "Risk Factors",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Prevention.dc.html": {
+   "x": 4080,
+   "y": 0,
+   "w": 1280,
+   "h": 4000,
+   "title": "Prevention",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Resources.dc.html": {
+   "x": 5440,
+   "y": 0,
+   "w": 1280,
+   "h": 2900,
+   "title": "Local Resources",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "Quiz.dc.html": {
+   "x": 6800,
+   "y": 0,
+   "w": 1280,
+   "h": 1900,
+   "title": "Quiz",
+   "expand": "fill",
+   "is_interactive": true
+  },
+  "References.dc.html": {
+   "x": 8160,
+   "y": 0,
+   "w": 1280,
+   "h": 2500,
+   "title": "References",
+   "expand": "fill",
+   "is_interactive": true
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "Numbers.dc.html",
+  "RiskFactors.dc.html",
+  "Prevention.dc.html",
+  "Resources.dc.html",
+  "Quiz.dc.html",
+  "References.dc.html"
+ ],
+ "notes": {
+  "sitetitle": {
+   "x": 0,
+   "y": -300,
+   "text": "HPV and Cervical Cancer Prevention: HPE 4010 website (7 pages)",
+   "kind": "title1",
+   "maxW": 9440
+  }
+ },
+ "designSystems": []
+}
